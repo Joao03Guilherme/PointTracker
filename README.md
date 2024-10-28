@@ -27,3 +27,5 @@ An image of the first frame will appear and you will be asked for the following 
 5. In the terminal, you will be prompted to insert the real distance between the two selected points for scale (in cm).
 
 The program will then track the points in the video and display the results in a new window. If the `--save_data` option was used, a csv file will also be saved with all the tracking data. If the `--save_plot`option was used, a png file of the plot will be saved.
+
+You can ignore the `.sh` (bash) script.
